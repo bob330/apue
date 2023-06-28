@@ -10,3 +10,23 @@ To make the example of the book work, just
 ==========
 
 Chapter 1 completed.
+Chapter 1 gives a brief introduction of Unix. Then cover some aspects from the programming
+perspective
+
+- I/O
+- User
+- processes
+- error
+- signal
+- time values
+- system call vs. api
+
+Page 69, how to create a file with nohole, man?
+
+21-06-2023
+==========
+Create a file nohole.c to generate the file.nohle. It is based on 3.2.c.
+又一次盡信書不如無書的好例子。
+
+
+
